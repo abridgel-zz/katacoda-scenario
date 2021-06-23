@@ -40,7 +40,7 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name": "Contrast URL", "href": "https://apptwo.contrastsecurity.com"},
-                   {"name": "WebGoat", "href": "http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"}
+                   {"name": "WebGoat", "href": "http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/WebGoat"}
                   ],
     "uilayout": "editor-terminal"
   },
