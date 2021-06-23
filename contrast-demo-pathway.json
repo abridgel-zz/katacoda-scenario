@@ -1,0 +1,11 @@
+{
+  "title": "Onboarding with Contrast",
+  "description": "Learn how to onboard a demo application into the Contrast platform.",
+  "courses": [
+    {
+      "course_id": "webgoat-demo",
+      "title": "Deploy WebGoat with Contrast",
+      "description": ""
+    }
+  ]
+}
