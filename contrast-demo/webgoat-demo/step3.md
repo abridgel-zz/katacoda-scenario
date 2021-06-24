@@ -1,7 +1,7 @@
 
 Setup and Configure the contrast_security.yaml file
 
-`cat << EOF > /opt/contrast/contrast_security.yaml
+`cat << EOF > /root/contrast/contrast_security.yaml
 api:
   url: https://apptwo.contrastsecurity.com/Contrast
   username:
