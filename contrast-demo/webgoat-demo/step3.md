@@ -1,5 +1,5 @@
 
-Setup and Configure the contrast_security.yaml file
+Configure the contrast_security.yaml file
 
 `cat << EOF > /root/contrast/contrast_security.yaml
 api:
