@@ -1,9 +1,13 @@
-Login to the contrat platform at:
+Login to the contrast platform at:
 
-https://apptwo.contrastsecurity/com
+https://apptwo.contrastsecurity.com
 
 With the credentials you were provided with. Ensure your application has been onboarded
 
-Explore the various tabs. Do you see your application score? How many routes are there? How many libraries does your application have?
+Explore the various tabs:
 
+Do you see your application score? 
+How many routes are there? 
+How many libraries does your application have?
 
+Thank you for completing this exercise!!!!!

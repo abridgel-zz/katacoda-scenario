@@ -12,6 +12,3 @@ Once your application is up and running you can browse to the app at:
 http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/WebGoat
 
 Or you can click on the WebGoat tab under the KataCoda Editor
-
-
-
