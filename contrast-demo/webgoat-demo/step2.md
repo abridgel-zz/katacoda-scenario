@@ -7,6 +7,3 @@ Download the Contrast Agent
 
 `chmod 755 /root/contrast/contrast.jar`{{execute}}
 
-Capture your IP address as we will need this later
-
-`cat /etc/hosts | awk 'END {print $1}'`{{execute}}
