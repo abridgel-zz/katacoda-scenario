@@ -5,18 +5,9 @@ Setup and Configure the contrast_security.yaml file
 api:
   url: https://apptwo.contrastsecurity.com/Contrast
   username:
+  api_key:
+  service_key:
 EOF `{{execute}}
 
-Create an environemtn file for your keys
+Login to the contrast portal find your username, service key, and api key. Populate the contrast_security.yaml file with these values
 
-`cat << EOF > /opt/contrast/setup.sh
-#! /bin/bash
-export API__API_KEY=
-export API__SERVICE_KEY=
-EOF `{{execute}}
-
-Login to the contrast portal find your keys and populate the setup.sh file with the
-1. API_KEY
-2. API_SERVICE_KEY
-
-Also put the value of your username (usually in email format) into the /opt/contrast/contrast_security.yaml file
