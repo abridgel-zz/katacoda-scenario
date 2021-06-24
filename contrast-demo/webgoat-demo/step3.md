@@ -10,6 +10,9 @@ api:
 application:
   name: WebGoat_Student##
   group: student##_group
+agent:
+  java:
+    standalone_app_name: WebGoat_Student##
 EOF `{{execute}}
 
 Login to the contrast portal find your username, service key, and api key. Populate the contrast_security.yaml file with these values
