@@ -7,4 +7,5 @@ Step 2: Build Webgoat
 
 `cd WebGoat`{{execute}}
 
-`mvn clean install -DskipTets`{{execute}}
+`mvn clean install -DskipTests`{{execute}}
+
