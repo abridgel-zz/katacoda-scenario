@@ -7,5 +7,10 @@
       "title": "Deploy WebGoat with Contrast",
       "description": ""
     }
+    {
+      "course_id": "webgoat-demo",
+      "title": "Remediate WebGoat with Contrast",
+      "description": ""
+    }
   ]
 }
