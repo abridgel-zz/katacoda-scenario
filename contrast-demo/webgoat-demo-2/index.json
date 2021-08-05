@@ -1,8 +1,8 @@
 {
-  "title": "Deploy WebGoat with Contrast",
+  "title": "Remediate Juice-Shop with Contrast",
   "description": "",
   "difficulty": "Beginner",
-  "time": "30",
+  "time": "60",
   "details": {
     "steps": [
       {
@@ -36,7 +36,7 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name": "Contrast URL", "href": "https://apptwo.contrastsecurity.com"},
-                   {"name": "WebGoat", "href": "http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/WebGoat"}
+                   {"name": "Juice-Shop", "href": "http://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/WebGoat"}
                   ],
     "uilayout": "editor-terminal"
   },

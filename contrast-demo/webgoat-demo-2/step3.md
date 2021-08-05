@@ -3,7 +3,7 @@ Configure the contrast_security.yaml file
 
 Next we will create the contrast_security.yaml file and populate it with some values from the contrast platform
 
-`cat << EOF > /root/contrast/contrast_security.yaml
+`cat << EOF > contrast_security.yaml
 api:
   url: https://apptwo.contrastsecurity.com/Contrast
   user_name:
