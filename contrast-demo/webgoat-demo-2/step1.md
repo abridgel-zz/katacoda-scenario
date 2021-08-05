@@ -1,12 +1,14 @@
 
 Step 1: Clone the WebGoat repo
 
-`git clone https://github.com/WebGoat/WebGoat.git`{{execute}}
+`git clone https://github.com/bkimminich/juice-shop.git`{{execute}}
 
 Step 2: Build Webgoat
 
-`cd WebGoat`{{execute}}
+`cd juice-shop`{{execute}}
 
-`mvn clean install -DskipTests`{{execute}}
+`npm install`{{execute}}
+
+`npm start`{{execute}}
 
 You can open a new terminal tab and continue with the lab while the application compiles
