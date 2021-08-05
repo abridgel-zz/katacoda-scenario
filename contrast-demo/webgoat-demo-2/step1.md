@@ -7,6 +7,12 @@ Step 2: Build Webgoat
 
 `cd juice-shop`{{execute}}
 
+`rm -fR node_modules`{{execute}}
+
+`npm cache verify`{{execute}}
+
+`sudo npm i -g npm`{{execute}}
+
 `npm install`{{execute}}
 
 `npm start`{{execute}}

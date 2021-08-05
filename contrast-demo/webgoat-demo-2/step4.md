@@ -1,14 +1,14 @@
 
 Start WebGoat with Contrast:
 
-Congratulations you are now ready to bring up the WebGoat application and start doing some IAST
+Congratulations you are now ready to bring up the application and start doing some IAST
 
-Let's start the Contrast Agent with the WebGoat Server
+Let's start the Contrast Agent with the Application
 
-`java -Dcontrast.config.path=/root/contrast/contrast_security.yaml -javaagent:/root/contrast/contrast.jar -jar /root/WebGoat/webgoat-server/target/webgoat-server-8.2.0.jar --server.port=8080 --server.address=[[HOST_IP]]`{{execute}}
+`node -r @contrast/agent build/app.js`{{execute}}
 
 Once your application is up and running you can browse to the app at:
 
-http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/WebGoat
+http://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com
 
-Or you can click on the WebGoat tab under the KataCoda Editor
+Or you can click on the Juice-Shop tab under the KataCoda Editor
