@@ -1,7 +1,7 @@
 
 Step 1: Clone the WebGoat repo
 
-`git clone https://github.com/bkimminich/juice-shop.git`{{execute}}
+`git clone https://github.com/abridgel/juice-shop.git`{{execute}}
 
 Step 2: Build Webgoat
 
