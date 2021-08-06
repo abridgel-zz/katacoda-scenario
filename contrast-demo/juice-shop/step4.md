@@ -1,5 +1,5 @@
 
-Start WebGoat with Contrast:
+Start Juice-shop with Contrast:
 
 Congratulations you are now ready to bring up the application and start doing some IAST
 

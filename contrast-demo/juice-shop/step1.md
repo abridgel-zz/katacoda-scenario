@@ -1,9 +1,9 @@
 
-Step 1: Clone the WebGoat repo
+Step 1: Clone the Juice-Shop repo
 
 `git clone https://github.com/abridgel/juice-shop.git`{{execute}}
 
-Step 2: Build Webgoat
+Step 2: Build Juice-Shop
 
 `cd juice-shop`{{execute}}
 
@@ -15,6 +15,4 @@ Step 2: Build Webgoat
 
 `npm install`{{execute}}
 
-`npm start`{{execute}}
-
-You can open a new terminal tab and continue with the lab while the application compiles
+The compile may take a little longer since we need to install some components for the first time
