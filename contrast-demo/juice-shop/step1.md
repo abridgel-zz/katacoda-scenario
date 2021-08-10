@@ -1,18 +1,16 @@
 
-Step 1: Clone the Juice-Shop repo
+Step 1: Via Docker we will pull an image but first we need to setup some variables
 
-`git clone https://github.com/abridgel/juice-shop.git`{{execute}}
+Copy and Paste the following into the terminal window with your assigned values
 
-Step 2: Build Juice-Shop
+export API__API_KEY=
+export API__USER_NAME=
+export API__SERVICE_KEY=
+export APPLICATION__NAME=JuiceShop_Student##
 
-`cd juice-shop`{{execute}}
+Once completed confirm the settings are there via
 
-`rm -fR node_modules`{{execute}}
+`env | grep API`{{execute}}
 
-`npm cache verify`{{execute}}
+`env | grep APPLICATION`{{execute}}
 
-`sudo npm i -g npm`{{execute}}
-
-`npm install`{{execute}}
-
-The compile may take a little longer since we need to install some components for the first time
