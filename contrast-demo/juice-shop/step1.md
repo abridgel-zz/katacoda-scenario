@@ -5,6 +5,7 @@ Step 1: Via Docker we will pull an image but first we need to setup some variabl
 
 Edit the env.sh file with your keys and student number than execute the script
 
+`cd $HOME/scripts`{{execute}}
 `. ./env.sh`{{execute}}
 
 Once completed confirm the settings are there via
