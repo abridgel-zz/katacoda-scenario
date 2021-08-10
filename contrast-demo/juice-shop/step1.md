@@ -1,12 +1,11 @@
 
 Step 1: Via Docker we will pull an image but first we need to setup some variables
 
-Copy and Paste the following into the terminal window with your assigned values
+`git clone https://github.com/abridgel/scripts.git`{{execute}}
 
-export API__API_KEY=
-export API__USER_NAME=
-export API__SERVICE_KEY=
-export APPLICATION__NAME=JuiceShop_Student##
+Edit the env.sh file with your keys and student number than execute the script
+
+`. ./env.sh`{{execute}}
 
 Once completed confirm the settings are there via
 
