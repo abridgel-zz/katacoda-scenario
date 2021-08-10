@@ -40,11 +40,11 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name": "Contrast URL", "href": "https://apptwo.contrastsecurity.com"},
-                   {"name": "Juice-Shop", "href": "http://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/WebGoat"}
+                   {"name": "Juice-Shop", "href": "http://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"}
                   ],
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu:1804"
+    "imageid": "nodejs:12"
   }
 }
