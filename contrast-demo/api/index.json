@@ -1,5 +1,5 @@
 {
-  "title": "Remediate Juice-Shop with Contrast",
+  "title": "Learn to Leverage the CONTRAST API",
   "description": "",
   "difficulty": "Beginner",
   "time": "60",
@@ -36,6 +36,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "pytho:3.8"
+    "imageid": "python:3.8"
   }
 }
