@@ -11,6 +11,11 @@
       "course_id": "juice-shop",
       "title": "Remediate SQL Injection with Contrast",
       "description": ""
+    },
+    {
+      "course_id": "api",
+      "title": "Working with the Contrast API",
+      "description": ""
     }
   ]
 }
