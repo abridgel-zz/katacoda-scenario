@@ -5,7 +5,7 @@ Congratulations you are now ready to bring up the WebGoat application and start 
 
 Let's start the Contrast Agent with the WebGoat Server
 
-`java -Dcontrast.config.path=/root/contrast/contrast_security.yaml -javaagent:/root/contrast/contrast.jar -jar /root/WebGoat/webgoat-server/target/webgoat-server-8.2.1-SNAPSHOT.jar --server.port=8080 --server.address=[[HOST_IP]]`{{execute}}
+`java -Dcontrast.config.path=/root/contrast/contrast_security.yaml -javaagent:/root/contrast/contrast.jar -jar /root/WebGoat/webgoat-server/target/webgoat-server-v8.0.0.M26.jar --server.port=8080 --server.address=[[HOST_IP]]`{{execute}}
 
 Once your application is up and running you can browse to the app at:
 
