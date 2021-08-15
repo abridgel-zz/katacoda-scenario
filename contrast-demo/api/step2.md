@@ -1,7 +1,7 @@
 
 Step2: Update the endpoints with the correct ORGID and APPID 
 
-By now you should have an idea of how to utlize the API playground. You may leverage it to try and test endpoints but first you willneed your appid and orgid.
+By now you should have an idea of how to utlize the API playground. You may leverage it to try and test endpoints but first you will need your appid and orgid.
 
 To find this navigate to your application in Contrast. Your url should be in the following form
 
