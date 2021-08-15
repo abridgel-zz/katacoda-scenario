@@ -41,6 +41,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "openjdk:16"
+    "imageid": "ubuntu:1804"
   }
 }
